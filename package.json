@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "@types/angular": "^1.6.14",
+    "@types/angular": "^1.8.9",
     "@types/angular-ui-bootstrap": "^0.13.41",
     "@types/basic-auth": "0.0.31",
     "@types/body-parser": "^1.16.3",
@@ -29,7 +29,7 @@
     "@types/socket.io-client": "^1.4.29",
     "@types/ws": "0.0.39",
     "agentkeepalive": "3.1.0",
-    "angular": "1.6.4",
+    "angular": "1.8.3",
     "angular-ui-bootstrap": "2.5.0",
     "angularjs": "0.0.1",
     "basic-auth": "1.1.0",
